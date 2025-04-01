@@ -5,7 +5,7 @@
 Welcome to my GitHub profile! I'm a passionate developer with a love for coding, learning, and contributing to the open-source community.
 
 ## 🚀 About Me
-- 🔭 I’m currently working on AntiPublic(https://github.com/yassine9-11/antipublic)
+- 🔭 I’m currently working on [AntiPublic](https://github.com/yassine9-11/antipublic)
 - 🌱 I’m currently learning python
 
 ## 🛠️ Languages and Tools:
